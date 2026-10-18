@@ -85,7 +85,7 @@ I don't expect to know everything today. I want to keep learning, build things t
 <div align="center">
 
 <a href="https://leetcode.com/u/nishok1606/">
-<img src="https://nishok-leetcode-stats.vercel.app/api/card?theme=midnight-purple&border_radius=29.5&top_skills=5&top_langs=5" alt="My live Midnight Purple LeetCode statistics"/>
+<img src="https://nishok-leetcode-stats.vercel.app/api/card?theme=midnight-purple&border_radius=0&top_skills=5&top_langs=5" alt="My live Midnight Purple LeetCode statistics"/>
 </a>
 
 <br/><br/>
