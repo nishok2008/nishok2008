@@ -165,6 +165,24 @@ My goal is to understand the code, learn the contribution workflow, and work tow
 
 <br/><br/>
 
+```html
+<h2 align="center">💜 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishok16/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nishokmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to connecting, learning, and building something meaningful.</i>
+</p>
+```
+
+
 *I'm documenting the journey, not just the results.*
 
 <br/><br/>
