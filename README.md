@@ -106,6 +106,21 @@ Every problem is an opportunity to learn something new or understand something b
 
 ---
 
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nishok2008/nishok2008/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/KEEP-COMMITTING-C77DFF?style=for-the-badge&labelColor=16002B" alt="Keep committing"/>
+<img src="https://img.shields.io/badge/KEEP-LEARNING-9D4EDD?style=for-the-badge&labelColor=16002B" alt="Keep learning"/>
+
+</div>
+
+---
+
 ## 🌌 Open Source
 
 <div align="center">
