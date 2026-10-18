@@ -14,7 +14,6 @@ runs-on: ubuntu-latest
 permissions:
 contents: write
 
-```
 steps:
   - name: Generate snake animation
     uses: Platane/snk@v3
@@ -31,4 +30,4 @@ steps:
       build_dir: dist
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+
