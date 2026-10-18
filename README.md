@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,30:240046,65:7209B7,100:E100FF&height=240&section=header&text=Nishok%20G%20A&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=COMPUTER%20SCIENCE%20%7C%20CODE%20%7C%20CREATE&descSize=16&descAlignY=57&descColor=E0AAFF" width="100%" alt="Purple neon animated profile header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=C77DFF&background=08001400&center=true&vCenter=true&width=750&lines=B.E.+Computer+Science+%26+Engineering;CEG+%7C+Anna+University+%7C+Guindy;Learning+C%2B%2B+One+Problem+at+a+Time;Exploring+AI%2C+ML+%26+Open+Source;Building.+Learning.+Improving." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=C77DFF&center=true&vCenter=true&width=750&lines=B.E.+Computer+Science+%26+Engineering;CEG+%7C+Anna+University+%7C+Guindy;Learning+C%2B%2B+One+Problem+at+a+Time;Exploring+AI%2C+ML+%26+Open+Source;Building.+Learning.+Improving." alt="Animated introduction"/>
 
 <br/>
 
@@ -12,21 +12,17 @@
 <a href="https://leetcode.com/u/nishok1606/">
 <img src="https://img.shields.io/badge/LeetCode-nishok1606-7209B7?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" alt="LeetCode"/>
 </a>
-<img src="https://img.shields.io/badge/FOCUS-LEARNING%20%26%20BUILDING-C77DFF?style=for-the-badge&labelColor=16002B" alt="Focus"/>
+<img src="https://img.shields.io/badge/FOCUS-LEARNING%20%26%20BUILDING-C77DFF?style=for-the-badge&labelColor=16002B" alt="Learning and building"/>
 
 <br/><br/>
 
-**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
-
 *Curious mind. Growing skills. Building towards something bigger.*
-
-**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
 </div>
 
 ---
 
-##  About Me
+## 💜 About Me
 
 Hey, I'm Nishok!
 
@@ -89,7 +85,7 @@ I don't expect to know everything today. I want to keep learning, build things t
 <div align="center">
 
 <a href="https://leetcode.com/u/nishok1606/">
-<img src="https://nishok-leetcode-stats.vercel.app/api/card?theme=purple-dark&border_radius=12" alt="My live LeetCode statistics"/>
+<img src="https://nishok-leetcode-stats.vercel.app/api/card?theme=midnight-purple&border_radius=29.5&top_skills=5&top_langs=5" alt="My live Midnight Purple LeetCode statistics"/>
 </a>
 
 <br/><br/>
@@ -116,7 +112,7 @@ Every problem is an opportunity to learn something new or understand something b
 
 <img src="https://raw.githubusercontent.com/nishok2008/nishok2008/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/KEEP-COMMITTING-C77DFF?style=for-the-badge&labelColor=16002B" alt="Keep committing"/>
 <img src="https://img.shields.io/badge/KEEP-LEARNING-9D4EDD?style=for-the-badge&labelColor=16002B" alt="Keep learning"/>
@@ -165,13 +161,13 @@ My goal is to understand the code, learn the contribution workflow, and work tow
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=750&lines=Stay+curious.;Keep+building.;Never+stop+learning.;Small+steps.+Big+dreams." alt="Animated centered reminder"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=750&lines=Stay+curious.;Keep+building.;Never+stop+learning.;Small+steps.+Big+dreams." alt="Centered animated reminder"/>
 
-<br/>
+<br/><br/>
 
 *I'm documenting the journey, not just the results.*
 
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,50:7209B7,100:E100FF&height=130&section=footer&animation=twinkling" width="100%" alt="Purple neon animated footer"/>
 
