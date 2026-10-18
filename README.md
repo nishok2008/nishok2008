@@ -22,7 +22,7 @@
 
 ---
 
-## 💜 About Me
+## 👾 About Me
 
 Hey, I'm Nishok!
 
