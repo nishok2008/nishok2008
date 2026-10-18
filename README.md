@@ -165,28 +165,20 @@ My goal is to understand the code, learn the contribution workflow, and work tow
 
 <br/><br/>
 
-```html
 <h2 align="center">💜 Connect With Me</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nishok16/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nishokmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Open to connecting, learning, and building something meaningful.</i>
-</p>
-```
-
-
-*I'm documenting the journey, not just the results.*
+<a href="https://www.linkedin.com/in/nishok16/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Connect on LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:nishokmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-7209B7?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Contact via Gmail"/>
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,50:7209B7,100:E100FF&height=130&section=footer&animation=twinkling" width="100%" alt="Purple neon animated footer"/>
+<i>Open to connecting, learning, and building something meaningful.</i>
 
 </div>
