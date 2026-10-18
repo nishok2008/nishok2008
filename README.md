@@ -1,32 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Nishok%20G%20A&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student&descAlignY=55&descSize=18" width="100%" alt="Animated profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,30:240046,65:7209B7,100:E100FF&height=240&section=header&text=Nishok%20G%20A&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=COMPUTER%20SCIENCE%20%7C%20CODE%20%7C%20CREATE&descSize=16&descAlignY=57&descColor=E0AAFF" width="100%" alt="Purple neon animated profile header"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.E.+Computer+Science+%26+Engineering;CEG+%7C+Anna+University+%7C+Guindy;Learning+C%2B%2B+One+Problem+at+a+Time;Exploring+AI%2C+ML+%26+Open+Source;Building.+Learning.+Improving." alt="Typing animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=C77DFF&background=08001400&center=true&vCenter=true&width=750&lines=B.E.+Computer+Science+%26+Engineering;CEG+%7C+Anna+University+%7C+Guindy;Learning+C%2B%2B+One+Problem+at+a+Time;Exploring+AI%2C+ML+%26+Open+Source;Building.+Learning.+Improving." alt="Animated introduction"/>
 
 <br/>
 
 <a href="https://github.com/nishok2008">
-<img src="https://img.shields.io/badge/GitHub-nishok2008-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-nishok2008-240046?style=for-the-badge&logo=github&logoColor=E0AAFF" alt="GitHub"/>
 </a>
 <a href="https://leetcode.com/u/nishok1606/">
-<img src="https://img.shields.io/badge/LeetCode-nishok1606-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-nishok1606-7209B7?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" alt="LeetCode"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-Learning%20%26%20Building-2ea44f?style=for-the-badge" alt="Focus"/>
+<img src="https://img.shields.io/badge/FOCUS-LEARNING%20%26%20BUILDING-C77DFF?style=for-the-badge&labelColor=16002B" alt="Focus"/>
+
+<br/><br/>
+
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+
+*Curious mind. Growing skills. Building towards something bigger.*
+
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Nishok!
+## 💜 About Me
+
+Hey, I'm Nishok!
 
 I'm pursuing a **B.E. in Computer Science and Engineering at the College of Engineering, Guindy (CEG), Anna University**.
 
 I'm at the beginning of my journey in computer science, learning how to turn ideas into working programs and gradually building the skills needed to solve real-world problems.
 
-Right now, I'm focusing on strengthening my C++ fundamentals, solving LeetCode problems, exploring AI and machine learning, and taking my first steps into open-source development.
+Right now, I'm strengthening my C++ fundamentals, solving LeetCode problems, exploring AI and machine learning, and taking my first steps into open-source development.
 
 I don't expect to know everything today. I want to keep learning, build things that challenge me, and become a better engineer with every project.
 
@@ -35,16 +43,22 @@ I don't expect to know everything today. I want to keep learning, build things t
 * 💻 Building a strong foundation in C++ and problem-solving.
 * 🧠 Learning data structures and algorithms.
 * 🤖 Exploring artificial intelligence and machine learning.
-* 🌍 Understanding how real-world open-source projects work.
+* 🌍 Understanding real-world open-source projects.
 * 🚀 Developing projects that demonstrate what I learn.
 
 ---
 
-## 🛠️ Technologies & Tools
+## ⚡ Technologies & Tools
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode,linux,python&theme=dark" alt="Technologies and tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Currently_Learning-C%2B%2B-C77DFF?style=flat-square&labelColor=16002B" alt="Currently learning C++"/>
+<img src="https://img.shields.io/badge/Exploring-AI%20%26%20ML-9D4EDD?style=flat-square&labelColor=16002B" alt="Exploring AI and ML"/>
+<img src="https://img.shields.io/badge/Contributing-Open_Source-E0AAFF?style=flat-square&labelColor=16002B" alt="Exploring open source"/>
 
 </div>
 
@@ -58,13 +72,15 @@ I don't expect to know everything today. I want to keep learning, build things t
 
 <div align="center">
 
+<a href="https://github.com/nishok2008">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=nishok2008&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+</a>
 
+<a href="https://github.com/nishok2008">
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishok2008&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+</a>
 
 </div>
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/nishok2008/nishok2008/output/github-snake-dark.svg)
 
 ---
 
@@ -76,39 +92,50 @@ I don't expect to know everything today. I want to keep learning, build things t
 <img src="https://nishok-leetcode-stats.vercel.app/api/card?theme=github-dark&border_radius=12" alt="My live LeetCode statistics"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/nishok2008/leetcode-cpp-solutions">
-<img src="https://img.shields.io/badge/View_My_C%2B%2B_Solutions-181717?style=for-the-badge&logo=github" alt="View my LeetCode solutions"/>
+<img src="https://img.shields.io/badge/VIEW_MY_C%2B%2B_SOLUTIONS-7209B7?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View my LeetCode solutions"/>
 </a>
+
+<br/><br/>
+
+*One problem at a time. One concept at a time. Always improving.*
 
 </div>
 
-I'm using LeetCode to practise problem-solving, understand algorithms, and get more comfortable writing clean C++ code.
+I'm using LeetCode to practise problem-solving, understand algorithms, and become more comfortable writing clean C++ code.
 
 Every problem is an opportunity to learn something new or understand something better.
 
 ---
 
-## 🐍 My Contribution Journey
+## 🐍 Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nishok2008/nishok2008/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/nishok2008/nishok2008/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/KEEP-COMMITTING-C77DFF?style=for-the-badge&labelColor=16002B" alt="Keep committing"/>
+<img src="https://img.shields.io/badge/KEEP-LEARNING-9D4EDD?style=for-the-badge&labelColor=16002B" alt="Keep learning"/>
 
 </div>
 
-*The snake animation requires a GitHub Actions workflow to generate and publish the SVG. Setup instructions are below.*
-
 ---
 
-## 🌱 Open Source
+## 🌌 Open Source
 
 <div align="center">
 
 <a href="https://github.com/nishok2008/opencv">
-<img src="https://img.shields.io/badge/OpenCV-Exploring_Open_Source-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/OPEN_SOURCE-OPENCV-9D4EDD?style=for-the-badge&logo=opencv&logoColor=FFFFFF&labelColor=16002B" alt="OpenCV exploration"/>
 </a>
+
+<br/><br/>
+
+*Exploring codebases. Learning from developers. Working towards meaningful contributions.*
 
 </div>
 
@@ -138,12 +165,14 @@ My goal is to understand the code, learn the contribution workflow, and work tow
 
 <div align="center">
 
-### "Stay curious. Keep building. Never stop learning."
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=750&lines=Stay+curious.;Keep+building.;Never+stop+learning.;Small+steps.+Big+dreams." alt="Animated reminder"/>
 
-I'm documenting the journey, not just the results.
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" width="100%" alt="Decorative footer"/>
+*I'm documenting the journey, not just the results.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,50:7209B7,100:E100FF&height=130&section=footer&animation=twinkling" width="100%" alt="Purple neon animated footer"/>
 
 </div>
-
-
