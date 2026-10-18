@@ -26,7 +26,7 @@
 
 ---
 
-## 💜 About Me
+##  About Me
 
 Hey, I'm Nishok!
 
@@ -89,7 +89,7 @@ I don't expect to know everything today. I want to keep learning, build things t
 <div align="center">
 
 <a href="https://leetcode.com/u/nishok1606/">
-<img src="https://nishok-leetcode-stats.vercel.app/api/card?theme=github-dark&border_radius=12" alt="My live LeetCode statistics"/>
+<img src="https://nishok-leetcode-stats.vercel.app/api/card?theme=purple-dark&border_radius=12" alt="My live LeetCode statistics"/>
 </a>
 
 <br/><br/>
