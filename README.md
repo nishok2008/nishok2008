@@ -143,3 +143,5 @@ I'm documenting the journey, not just the results.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" width="100%" alt="Decorative footer"/>
 
 </div>
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/nishok2008/nishok2008/output/github-snake-dark.svg)
