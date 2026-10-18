@@ -162,16 +162,17 @@ My goal is to understand the code, learn the contribution workflow, and work tow
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/nishok16/">
+<a href="https://www.linkedin.com/in/nishok16/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Connect on LinkedIn"/>
 </a>
-&nbsp;
-<a href="mailto:nishokmail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-7209B7?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Contact via Gmail"/>
-</a>
+
+<br/><br/>
+
+📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nishokmail@gmail.com" target="_blank">[nishokmail@gmail.com](mailto:nishokmail@gmail.com)</a>
 
 <br/><br/>
 
 <i>Open to connecting, learning, and building something meaningful.</i>
 
 </div>
+
