@@ -165,7 +165,7 @@ My goal is to understand the code, learn the contribution workflow, and work tow
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=750&lines=Stay+curious.;Keep+building.;Never+stop+learning.;Small+steps.+Big+dreams." alt="Animated reminder"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=750&lines=Stay+curious.;Keep+building.;Never+stop+learning.;Small+steps.+Big+dreams." alt="Animated centered reminder"/>
 
 <br/>
 
