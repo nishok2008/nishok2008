@@ -64,6 +64,8 @@ I don't expect to know everything today. I want to keep learning, build things t
 
 </div>
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/nishok2008/nishok2008/output/github-snake-dark.svg)
+
 ---
 
 ## 🔥 LeetCode Journey
@@ -144,4 +146,4 @@ I'm documenting the journey, not just the results.
 
 </div>
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/nishok2008/nishok2008/output/github-snake-dark.svg)
+
