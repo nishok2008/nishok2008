@@ -121,26 +121,6 @@ Every problem is an opportunity to learn something new or understand something b
 
 ---
 
-## 🌌 Open Source
-
-<div align="center">
-
-<a href="https://github.com/nishok2008/opencv">
-<img src="https://img.shields.io/badge/OPEN_SOURCE-OPENCV-9D4EDD?style=for-the-badge&logo=opencv&logoColor=FFFFFF&labelColor=16002B" alt="OpenCV exploration"/>
-</a>
-
-<br/><br/>
-
-*Exploring codebases. Learning from developers. Working towards meaningful contributions.*
-
-</div>
-
-I'm exploring the OpenCV codebase and learning how established open-source projects are structured.
-
-My goal is to understand the code, learn the contribution workflow, and work towards making a genuine contribution.
-
----
-
 ## 📌 Featured Repositories
 
 <div align="center">
