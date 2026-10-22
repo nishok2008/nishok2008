@@ -129,14 +129,13 @@ Every problem is an opportunity to learn something new or understand something b
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishok2008&repo=leetcode-cpp-solutions&theme=tokyonight&hide_border=true" alt="LeetCode C++ solutions repository"/>
 </a>
 
-<a href="https://github.com/nishok2008/opencv">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nishok2008&repo=opencv&theme=tokyonight&hide_border=true" alt="OpenCV repository"/>
+<a href="https://github.com/nishok2008/minecraft-smp-website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nishok2008&repo=minecraft-smp-website&theme=tokyonight&hide_border=true" alt="Minecraft SMP website repository"/>
 </a>
 
 </div>
 
 ---
-
 
 <h2 align="center">💜 Connect With Me</h2>
 
