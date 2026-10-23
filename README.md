@@ -12,7 +12,7 @@ Interested in software development, algorithms, artificial intelligence, and ope
   <img src="https://img.shields.io/badge/Open%20Source-Pull%20Request-240046?style=flat-square&logo=github&logoColor=white" alt="Open-source pull request"/>
 </a></div>---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 I'm a Computer Science and Engineering student at the College of Engineering, Guindy (CEG), Anna University.
 
@@ -22,7 +22,7 @@ My interests include C++, AI/ML, and open-source development.
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-Learning-512DA8?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -31,7 +31,7 @@ My interests include C++, AI/ML, and open-source development.
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-Exploring-512DA8?style=flat-square" alt="AI and Machine Learning"/>
 </p>---
 
-🌐 Open-Source Contributions
+## 🌐 Open-Source Contributions
 
 "vacanza/holidays — Pull Request #3945" (https://github.com/vacanza/holidays/pull/3945)
 
@@ -41,7 +41,7 @@ Contribution to "Python Holidays" (https://github.com/vacanza/holidays), an open
 
 ---
 
-💡 Problem Solving
+## 💡 Problem Solving
 
 Practising programming and developing my understanding of data structures and algorithms through LeetCode.
 
@@ -49,7 +49,7 @@ Practising programming and developing my understanding of data structures and al
 
 ---
 
-🎯 Current Focus
+₹# 🎯 Current Focus
 
 - C++ and problem solving
 - Data structures and algorithms
@@ -60,11 +60,7 @@ Practising programming and developing my understanding of data structures and al
 
 📬 Contact
 
-- GitHub: "@nishok2008" (https://github.com/nishok2008)
-- LeetCode: "nishok1606" (https://leetcode.com/u/nishok1606/)
+- Email: "nishokmail@gmail.com" (mailto:nishokmail@gmail.com)
+- LinkedIn: "nishok16" (https://www.linkedin.com/in/nishok16/)
 
 ---
-
-<div align="center">Learning by building. Improving through practice.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:3C096C,100:7B2CBF&height=90&section=footer" width="100%" alt="Purple footer"/></div>
