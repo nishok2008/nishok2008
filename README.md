@@ -27,9 +27,11 @@ My interests include C++, AI/ML, and open-source development.
 
 ---
 
-## 🌐 Open-Source Contributions
+## Open-Source Contributions
 
-Contribution to [Python Holidays](https://github.com/vacanza/holidays), an open-source library for public holiday information.
+**[Python Holidays](https://github.com/vacanza/holidays)**
+
+Contributed to improving automated holiday tests by refactoring test cases and maintaining consistent test coverage.
 
 [View Pull Request →](https://github.com/vacanza/holidays/pull/3945)
 
