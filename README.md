@@ -1,53 +1,47 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:3C096C,100:7B2CBF&height=190&section=header&text=Nishok%20G%20A&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Development&descSize=15&descAlignY=60&descColor=E0AAFF" width="100%" alt="Nishok G A — Computer Science and Software Development"/>Computer Science & Engineering @ CEG, Anna University
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:3C096C,100:7B2CBF&height=190&section=header&text=Nishok%20G%20A&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%26%20ENGINEERING&descSize=15&descAlignY=60&descColor=E0AAFF" width="100%" alt="Nishok G A"/>CSE Student at CEG · Anna University
 
-Interested in software development, algorithms, artificial intelligence, and open-source software.
+<a href="https://github.com/nishok2008"><img src="https://img.shields.io/badge/GitHub-nishok2008-240046?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://leetcode.com/u/nishok1606/"><img src="https://img.shields.io/badge/LeetCode-nishok1606-240046?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 
-<br/><a href="https://github.com/nishok2008">
-  <img src="https://img.shields.io/badge/GitHub-nishok2008-240046?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://leetcode.com/u/nishok1606/">
-  <img src="https://img.shields.io/badge/LeetCode-nishok1606-240046?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-<a href="https://github.com/vacanza/holidays/pull/3945">
-  <img src="https://img.shields.io/badge/Open%20Source-Pull%20Request-240046?style=flat-square&logo=github&logoColor=white" alt="Open-source pull request"/>
-</a></div>---
+</div>---
 
 About
 
-I'm a Computer Science and Engineering student at the College of Engineering, Guindy (CEG), Anna University.
+Computer Science and Engineering student at the College of Engineering, Guindy (CEG), Anna University. Interested in software engineering, C++, artificial intelligence, and open-source development.
 
-Currently focused on strengthening my programming fundamentals, solving algorithmic problems, and learning how real-world software is built and maintained.
-
-I'm particularly interested in C++, AI/ML, and open-source development.
-
-Tech Stack
+Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-Learning-512DA8?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-Exploring-512DA8?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-512DA8?style=flat-square&logo=git&logoColor=white" alt="Git and GitHub"/>
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Exploring-512DA8?style=flat-square" alt="AI and Machine Learning"/>
-</p>Open Source
+<img src="https://img.shields.io/badge/C%2B%2B-512DA8?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Python-512DA8?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Git-512DA8?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-512DA8?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-512DA8?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+</p>Open-Source Contributions
 
-"vacanza/holidays — Pull Request #3945" (https://github.com/vacanza/holidays/pull/3945)
+"vacanza/holidays · PR #3945" (https://github.com/vacanza/holidays/pull/3945)
 
-Contributed to "Python Holidays" (https://github.com/vacanza/holidays), an open-source library for working with public holidays across countries and regions.
+Contribution to "Python Holidays" (https://github.com/vacanza/holidays), a Python library providing public holiday information.
 
-"View pull request →" (https://github.com/vacanza/holidays/pull/3945)
+"View Pull Request →" (https://github.com/vacanza/holidays/pull/3945)
 
 Problem Solving
 
-I use "LeetCode" (https://leetcode.com/u/nishok1606/) to practise programming, improve my understanding of data structures and algorithms, and develop a consistent problem-solving approach.
+"LeetCode Profile →" (https://leetcode.com/u/nishok1606/)
 
 Current Focus
 
-- Building a strong foundation in C++ and problem solving.
-- Learning data structures and algorithms.
-- Exploring AI/ML and software development.
-- Contributing to open-source projects and learning from established codebases.
+- C++ and data structures & algorithms
+- Artificial intelligence and machine learning
+- Open-source software
+- Building practical software projects
+
+Contact
+
+- Email: "nishokmail@gmail.com" (mailto:nishokmail@gmail.com)
+- GitHub: "@nishok2008" (https://github.com/nishok2008)
+- LinkedIn: "nishok16" (https://www.linkedin.com/in/nishok16/)
 
 ---
 
-<div align="center">Learning by building. Improving through practice.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:3C096C,100:7B2CBF&height=90&section=footer" width="100%" alt="Purple footer"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:3C096C,100:7B2CBF&height=80&section=footer" width="100%" alt="Purple footer"/></div>
