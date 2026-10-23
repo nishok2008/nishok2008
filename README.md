@@ -2,16 +2,6 @@
 
 Interested in software development, algorithms, artificial intelligence, and open-source software.
 
-<br/><a href="https://github.com/nishok2008">
-  <img src="https://img.shields.io/badge/GitHub-nishok2008-240046?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://leetcode.com/u/nishok1606/">
-  <img src="https://img.shields.io/badge/LeetCode-nishok1606-240046?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-<a href="https://github.com/vacanza/holidays/pull/3945">
-  <img src="https://img.shields.io/badge/Open%20Source-Pull%20Request-240046?style=flat-square&logo=github&logoColor=white" alt="Open-source pull request"/>
-</a></div>
-
 ---
 
 ## 👨‍💻 About Me
