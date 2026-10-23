@@ -10,7 +10,9 @@ Interested in software development, algorithms, artificial intelligence, and ope
 </a>
 <a href="https://github.com/vacanza/holidays/pull/3945">
   <img src="https://img.shields.io/badge/Open%20Source-Pull%20Request-240046?style=flat-square&logo=github&logoColor=white" alt="Open-source pull request"/>
-</a></div>---
+</a></div>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -29,7 +31,9 @@ My interests include C++, AI/ML, and open-source development.
   <img src="https://img.shields.io/badge/Python-Exploring-512DA8?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-512DA8?style=flat-square&logo=git&logoColor=white" alt="Git and GitHub"/>
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-Exploring-512DA8?style=flat-square" alt="AI and Machine Learning"/>
-</p>---
+</p>
+
+---
 
 ## 🌐 Open-Source Contributions
 
