@@ -49,7 +49,7 @@ Practising programming and developing my understanding of data structures and al
 
 ---
 
-₹# 🎯 Current Focus
+## 🎯 Current Focus
 
 - C++ and problem solving
 - Data structures and algorithms
@@ -58,7 +58,7 @@ Practising programming and developing my understanding of data structures and al
 
 ---
 
-📬 Contact
+## 📬 Contact
 
 - Email: "nishokmail@gmail.com" (mailto:nishokmail@gmail.com)
 - LinkedIn: "nishok16" (https://www.linkedin.com/in/nishok16/)
