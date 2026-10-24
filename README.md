@@ -6,10 +6,6 @@
 
 <p><i>Interested in software development, algorithms, artificial intelligence, and open-source software.</i></p>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,50:1E3A8A,100:3B82F6&height=6" width="100%" alt=""/>
-
 ## ⛏️ About Me
 
 I'm a Computer Science and Engineering student at the College of Engineering, Guindy (CEG), Anna University.
