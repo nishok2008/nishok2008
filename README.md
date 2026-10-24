@@ -1,10 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,50:1E3A8A,100:3B82F6&height=190&section=header&text=Nishok%20G%20A&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Development&descSize=15&descAlignY=60&descColor=BFDBFE&animation=fadeIn" width="100%" alt="Nishok G A — Computer Science and Software Development"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,50:1E3A8A,100:3B82F6&height=100&section=header&text=Nishok%20G%20A&fontSize=36&fontColor=FFFFFF&fontAlignY=40&desc=Computer%20Science%20%7C%20Software%20Development&descSize=13&descAlignY=72&descColor=BFDBFE&animation=fadeIn" width="100%" alt="Nishok G A — Computer Science and Software Development"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&height=45&lines=Computer+Science+%26+Engineering+%40+CEG%2C+Anna+University" alt="Computer Science & Engineering @ CEG, Anna University"/>
 
 <p><i>Interested in software development, algorithms, artificial intelligence, and open-source software.</i></p>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,50:1E3A8A,100:3B82F6&height=6" width="100%" alt=""/>
+
+## ⛏️ About Me
+
+I'm a Computer Science and Engineering student at the College of Engineering, Guindy (CEG), Anna University.
+
+Currently focused on strengthening my programming fundamentals, solving algorithmic problems, and understanding how real-world software is built and maintained.
+
+My interests include C++, AI/ML, and open-source development.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:1E3A8A,100:1E293B&height=70&section=footer&text=Keep%20Mining&fontSize=18&fontColor=BFDBFE&fontAlignY=65&animation=twinkling" width="100%" alt="Keep Mining"/>
 
 ## ⛏️ About Me
 
