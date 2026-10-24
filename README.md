@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:1D4ED8,100:3B82F6&height=190&section=header&text=Nishok%20G%20A&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Development&descSize=15&descAlignY=60&descColor=BFDBFE" width="100%" alt="Nishok G A — Computer Science and Software Development"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,50:1E3A8A,100:3B82F6&height=190&section=header&text=Nishok%20G%20A&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Development&descSize=15&descAlignY=60&descColor=BFDBFE" width="100%" alt="Nishok G A — Computer Science and Software Development"/></div>
 
 Computer Science & Engineering @ CEG, Anna University
 
