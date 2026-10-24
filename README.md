@@ -20,29 +20,6 @@ My interests include C++, AI/ML, and open-source development.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:1E3A8A,100:1E293B&height=70&section=footer&text=Keep%20Mining&fontSize=18&fontColor=BFDBFE&fontAlignY=65&animation=twinkling" width="100%" alt="Keep Mining"/>
 
-## ⛏️ About Me
-
-I'm a Computer Science and Engineering student at the College of Engineering, Guindy (CEG), Anna University.
-
-Currently focused on strengthening my programming fundamentals, solving algorithmic problems, and understanding how real-world software is built and maintained.
-
-My interests include C++, AI/ML, and open-source development.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,50:1E3A8A,100:3B82F6&height=6" width="100%" alt=""/>
-
-## 🎒 Hotbar
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/C%2B%2B-1E3A8A?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Algorithms-1D4ED8?style=for-the-badge&logoColor=white" alt="Algorithms"/>
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-3B82F6?style=for-the-badge&logoColor=white" alt="AI / ML"/>
-<img src="https://img.shields.io/badge/Open%20Source-475569?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:1E3A8A,100:1E293B&height=100&section=footer&text=Keep%20Mining&fontSize=22&fontColor=BFDBFE&fontAlignY=65&animation=twinkling" width="100%" alt="Keep Mining"/>
----
 
 ## 👨‍💻 About Me
 
